@@ -16,7 +16,7 @@ Below are the steps:
 8. In `client` directory, run `npm run start`;
 
 Go to `http://localhost:3000/` to check the live application.
-
+![alt text](https://github.com/prabhatps/Blog/blob/master/blog.JPG/to/blog.JPG)
 
 
 
